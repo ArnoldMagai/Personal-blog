@@ -40,7 +40,6 @@
   }
   
   .container {
-    align-items: flex-start;
     gap: 20px;
     padding: 20px;
     flex-wrap: nowrap;
@@ -50,10 +49,9 @@
   .questions {
     width: 25%;
     position: sticky;
-    top: 0px;
+    top: 1rem;
     background-color: #f9f9f9;
     padding: 10px;
-    height: fit-content;
   }
   
   .main-content {
