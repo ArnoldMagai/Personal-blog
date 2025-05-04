@@ -49,9 +49,10 @@
   .questions {
     width: 25%;
     position: sticky;
-    top: 1rem;
+    top: 200px;
     background-color: #f9f9f9;
     padding: 10px;
+    height: fit-content;
   }
   
   .main-content {
