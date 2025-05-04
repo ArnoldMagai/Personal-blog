@@ -20,14 +20,14 @@
     list-style-type: none;
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 17px;
     margin-top: 10px;
   }
   
   .top-nav ul li a {
     color: white;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 15px;
   }
   
   .top-nav ul li a:hover {
@@ -40,7 +40,6 @@
   }
   
   .container {
-    display: flex;
     align-items: flex-start;
     gap: 20px;
     padding: 20px;
