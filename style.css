@@ -10,7 +10,7 @@
   }
   
   header {
-    background-color: darkblue;
+    background-color: #fff;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -68,7 +68,7 @@
   }
   
   footer {
-    background-color: darkblue;
+    background-color: red;
     color: blue;
     text-align: center;
     padding: 10px 0;
