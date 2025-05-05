@@ -41,7 +41,7 @@
   
   .container {
     display: flex;
-    align-items: stretch;
+    align-items: flex-start;
     gap: 20px;
     padding: 20px;
   }
@@ -53,7 +53,7 @@
     top: 200px;
     background-color: #f9f9f9;
     padding: 10px;
-    align-self: start;
+    height: fit-content;
     
   }
   
@@ -68,8 +68,8 @@
   }
   
   footer {
-    background-color: #222;
-    color: #ccc;
+    background-color: #333;
+    color: blue;
     text-align: center;
     padding: 10px 0;
     margin-top: 30px;
@@ -77,7 +77,7 @@
   }
   
   footer a {
-    color: #ccc;
+    color: blue;
     text-decoration: none;
   }
   
